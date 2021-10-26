@@ -1,0 +1,9 @@
+{
+  "name": "smart-sales-plug-in",
+  "version": "0.0.0",
+  "description": "Smart Sales Plug-in",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
